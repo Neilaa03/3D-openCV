@@ -1,0 +1,5 @@
+opencv-contrib-python
+numpy
+trimesh
+pygltflib
+pyglet==1.5.27

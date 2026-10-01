@@ -1,0 +1,3 @@
+/home/neila/Documents/Master/M1/s2/3d/satellite_image/build/CMakeFiles/satellite_viewer.dir
+/home/neila/Documents/Master/M1/s2/3d/satellite_image/build/CMakeFiles/edit_cache.dir
+/home/neila/Documents/Master/M1/s2/3d/satellite_image/build/CMakeFiles/rebuild_cache.dir
